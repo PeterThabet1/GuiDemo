@@ -1,0 +1,2 @@
+# GuiDemo
+This is a college project. There were multiple modifications on the project. A menu was implemented and added. A toolbar was also implemented and added. An Icon was added to an Action. An ImageIcon was made from Scratch and added. RadioButtons were added to a submenu, then the submenu was added to the Menu. An Input Dialog was implemented and finally a personal modification was considered in changing the initial text and picture.
